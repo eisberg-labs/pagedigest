@@ -1,7 +1,7 @@
 {
   "name": "PageDigest",
   "description": "Get a quick summary of any web page with PageDigest: word count, characters, read time, text to HTML ratio.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "author": "Ana Bujan <ana@eisberg-labs.com>",
   "homepage_url": "https://github.com/eisberg-labs/pagedigest",
