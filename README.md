@@ -18,6 +18,7 @@ I calculate text to html ratio as `textContent/bodyInnerHtml`.
 I don't think text content should include a `style` or a `script` tag.
 There may be some differences in metrics compared to other apps,
 due to different content scopes and formulas.
+Read more on [how to create a chrome extension with React](https://www.amarjanica.com/first-attempt-at-building-a-simple-chrome-extension) at my blog.
 
 ## Suggestions
 Please send me your suggestions and report issues. This can turn out to be a more complex app,
