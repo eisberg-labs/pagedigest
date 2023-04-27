@@ -1,5 +1,5 @@
 export enum Command {
-  GET_CONTENT
+  GET_CONTENT,
 }
 
 export interface ContentResponse {
