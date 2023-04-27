@@ -14,7 +14,9 @@
     "isolatedModules": true,
     "jsx": "react",
     "sourceMap": true,
-    "downlevelIteration": true
+    "downlevelIteration": true,
+    "baseUrl": "."
   },
-  "include": ["extension"]
+  "include": ["extension", "__mocks__", "jest-setup.ts"],
+  "exclude": ["node_modules"]
 }
