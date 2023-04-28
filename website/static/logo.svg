@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="137.60567mm"
+   height="137.60567mm"
+   viewBox="0 0 137.60567 137.60567"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/ana/code/eisberg-labs/page-digest/public/icon.png"
+   inkscape:export-xdpi="23.975418"
+   inkscape:export-ydpi="23.975418"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.73228114"
+     inkscape:cx="-120.85522"
+     inkscape:cy="479.3241"
+     inkscape:window-width="2560"
+     inkscape:window-height="1416"
+     inkscape:window-x="2560"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g23305" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient39052">
+      <stop
+         style="stop-color:#fabb05;stop-opacity:1;"
+         offset="0"
+         id="stop39048" />
+      <stop
+         style="stop-color:#fabb05;stop-opacity:0;"
+         offset="1"
+         id="stop39050" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient29822"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#4285f4;stop-opacity:1;"
+         offset="0"
+         id="stop29820" />
+    </linearGradient>
+    <clipPath
+       id="a"
+       clipPathUnits="userSpaceOnUse"
+       stroke-width="3"
+       style="stroke-width:3">
+      <path
+         d="M 0,512 H 512 V 0 H 0 Z"
+         fill="#000000"
+         data-original="#000000"
+         stroke-width="3"
+         style="stroke-width:3"
+         id="path23253" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39052"
+       id="linearGradient39056"
+       x1="-507.29398"
+       y1="-243.89465"
+       x2="-387.04538"
+       y2="-243.89465"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(87.393683,-26.994751)">
+    <g
+       id="layer1-6"
+       transform="matrix(0.26458333,0,0,0.26458333,420.94134,427.36884)">
+      <g
+         id="layer1-5"
+         transform="translate(-55.989429,277.21593)">
+        <g
+           id="g2400"
+           transform="translate(-4.6466675)" />
+        <g
+           id="g1580"
+           style="stroke-width:0.699961"
+           transform="matrix(1.4022306,0,0,1.4555701,-966.38502,-1181.9582)">
+          <g
+             id="g23305"
+             transform="matrix(0.53486184,0,0,0.51526178,-203.62771,-417.60289)">
+            <circle
+               r="341.3335"
+               cx="-471.08902"
+               cy="345.87994"
+               fill="#ffffff"
+               shape="circle"
+               id="circle23251"
+               style="fill:#e94235;fill-opacity:1;fill-rule:nonzero;stroke:#fabb05;stroke-width:10.7792;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:export-filename="/home/ana/code/eisberg-labs/page-digest/public/icon-64.png"
+               inkscape:export-xdpi="11.813467"
+               inkscape:export-ydpi="11.813467" />
+            <g
+               id="g27792"
+               style="stroke:#ffffff;stroke-opacity:1"
+               transform="translate(-802.95257,-5.737784)"
+               inkscape:export-filename="/home/ana/code/eisberg-labs/page-digest/public/icon-64.png"
+               inkscape:export-xdpi="11.813467"
+               inkscape:export-ydpi="11.813467">
+              <g
+                 transform="matrix(0.7,0,0,0.7,102.39974,102.40036)"
+                 id="g23278"
+                 style="stroke:#ffffff;stroke-opacity:1">
+                <defs
+                   stroke-width="3"
+                   style="stroke-width:3"
+                   id="defs23256">
+                  <clipPath
+                     id="clipPath23291"
+                     clipPathUnits="userSpaceOnUse"
+                     stroke-width="3"
+                     style="stroke-width:3">
+                    <path
+                       d="M 0,512 H 512 V 0 H 0 Z"
+                       fill="#000000"
+                       data-original="#000000"
+                       stroke-width="3"
+                       style="stroke-width:3"
+                       id="path23289" />
+                  </clipPath>
+                </defs>
+                <path
+                   d="M 0,0 H -28"
+                   style="stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   transform="matrix(1.33333,0,0,-1.33333,330.667,506.667)"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="3"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-miterlimit="10"
+                   stroke-dasharray="none"
+                   stroke-opacity=""
+                   data-original="#000000"
+                   class=""
+                   id="path23258" />
+                <path
+                   d="M 0,0 H -172"
+                   style="stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   transform="matrix(1.33333,0,0,-1.33333,522.667,337.333)"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="3"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-miterlimit="10"
+                   stroke-dasharray="none"
+                   stroke-opacity=""
+                   data-original="#000000"
+                   class=""
+                   id="path23260" />
+                <path
+                   d="M 0,0 H -172"
+                   style="stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   transform="matrix(1.33333,0,0,-1.33333,522.667,177.333)"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="3"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-miterlimit="10"
+                   stroke-dasharray="none"
+                   stroke-opacity=""
+                   data-original="#000000"
+                   class=""
+                   id="path23262" />
+                <path
+                   d="M 0,0 H -20"
+                   style="stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   transform="matrix(1.33333,0,0,-1.33333,186.667,506.667)"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="3"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-miterlimit="10"
+                   stroke-dasharray="none"
+                   stroke-opacity=""
+                   data-original="#000000"
+                   class=""
+                   id="path23264" />
+                <path
+                   d="M 0,0 H -20"
+                   style="stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   transform="matrix(1.33333,0,0,-1.33333,186.667,337.333)"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="3"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-miterlimit="10"
+                   stroke-dasharray="none"
+                   stroke-opacity=""
+                   data-original="#000000"
+                   class=""
+                   id="path23266" />
+                <path
+                   d="M 0,0 H -20"
+                   style="stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   transform="matrix(1.33333,0,0,-1.33333,186.667,177.333)"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="3"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-miterlimit="10"
+                   stroke-dasharray="none"
+                   stroke-opacity=""
+                   data-original="#000000"
+                   class=""
+                   id="path23268" />
+                <g
+                   clip-path="url(#a)"
+                   transform="matrix(1.33333,0,0,-1.33333,0,682.667)"
+                   stroke-width="3"
+                   style="stroke:#ffffff;stroke-width:3;stroke-opacity:1"
+                   id="g23276">
+                  <path
+                     d="m 0,0 c -38.66,0 -70,-31.34 -70,-70 0,-38.66 31.34,-70 70,-70 38.66,0 70,31.34 70,70 C 70,-31.34 38.66,0 0,0 Z"
+                     style="stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     transform="translate(398,187)"
+                     fill="none"
+                     stroke="#000000"
+                     stroke-width="3"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-miterlimit="10"
+                     stroke-dasharray="none"
+                     stroke-opacity=""
+                     data-original="#000000"
+                     class=""
+                     id="path23270" />
+                  <path
+                     d="M 0,0 43,-43"
+                     style="stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     transform="translate(449,63)"
+                     fill="none"
+                     stroke="#000000"
+                     stroke-width="3"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-miterlimit="10"
+                     stroke-dasharray="none"
+                     stroke-opacity=""
+                     data-original="#000000"
+                     class=""
+                     id="path23272" />
+                  <path
+                     d="m 0,0 h -206 c -33.137,0 -60,26.863 -60,60 v 352 c 0,33.137 26.863,60 60,60 h 352 c 33.137,0 60,-26.863 60,-60 V 214"
+                     style="stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     transform="translate(286,20)"
+                     fill="none"
+                     stroke="#000000"
+                     stroke-width="3"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-miterlimit="10"
+                     stroke-dasharray="none"
+                     stroke-opacity=""
+                     data-original="#000000"
+                     class=""
+                     id="path23274" />
+                </g>
+              </g>
+            </g>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:223.987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffff5;fill-opacity:1;stroke:url(#linearGradient39056);stroke-width:6.57412;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="-523.89178"
+             y="-171.10982"
+             id="text24863"
+             transform="scale(1.018842,0.98150645)"
+             inkscape:export-filename="/home/ana/code/eisberg-labs/page-digest/public/icon-64.png"
+             inkscape:export-xdpi="11.813467"
+             inkscape:export-ydpi="11.813467"><tspan
+               sodipodi:role="line"
+               id="tspan24861"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:223.987px;font-family:'Isidora Sans';-inkscape-font-specification:'Isidora Sans';fill:#fffff5;fill-opacity:1;stroke:url(#linearGradient39056);stroke-width:6.57412;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               x="-523.89178"
+               y="-171.10982">P</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
