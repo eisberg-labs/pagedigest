@@ -23,13 +23,13 @@ jobs:
         with:
           node-version: 16
       - name: Install
-        run: npm install --prefix docs
+        run: npm install --prefix website
       - name: Build
-        run: npm run build --prefix docs
+        run: npm run build --prefix website
       - name: Deploy to s3
         uses: eisberg-labs/static-website-to-s3@main
         with:
-          target: docs/build
+          target: website/build
           dest: ${{ secrets.BUCKET_PATH }}
-          exclusions: ^docs\/build\/(index|404).html$
+          exclusions: ^website\/build\/(index|404).html$
           bucket: ${{ secrets.PROJECTS_BUCKET }}
